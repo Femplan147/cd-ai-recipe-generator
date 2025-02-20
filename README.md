@@ -1,1 +1,0 @@
-# cd-ai-recipe-generator
